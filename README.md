@@ -6,25 +6,16 @@ This repository contains certifications I have completed as part of my professio
 
 
 
-\## Certifications
+## Certifications
 
-
-
-| Certification      | Issuer   |
-
-| ------------------ | -------- |
-
-| SQL                | CloudyML |
-
-| Power BI           | CloudyML |
-
-| Python             | CloudyML |
-
-| Advanced Excel     | CloudyML |
-
-| Git \& GitHub       | CloudyML |
-
-| AI \& Generative AI | upGrad   |
+| Certification | Issuer |
+|:--------------|:-------|
+| SQL | CloudyML |
+| Power BI | CloudyML |
+| Python | CloudyML |
+| Advanced Excel | CloudyML |
+| Git & GitHub | CloudyML |
+| AI & Generative AI | upGrad |
 
 
 
